@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+}
+
+.title {
+	font-family: 'Noticia Text', serif;
+	text-align: center;
+	font-size: 2.8em;
+    font-weight: 600;
+    color: #4c7fc1;
+    margin-bottom: 25px;
+}
+
+#add-task {
+	margin: 0 auto;
+	display: inherit;
+	margin-bottom: 3%;
+	width: 50% !important;
+}
+
+.container {
+	width: 830px !important;
+}
+
+p {
+	font-family: 'Jaldi', sans-serif !important;
+    font-size: 1.2em;
+    margin: 0 0 2px !important;
+}
+
+.glyphicon{
+	float: right;
+}
+
+.glyphicon:hover {
+	cursor: pointer;
+}
+
+.edit {
+	margin-right: 12px;
+}
